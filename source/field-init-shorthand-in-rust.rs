@@ -24,11 +24,7 @@ fn instead_of_this(name: String, race: String) -> Dog {
 }
 
 fn do_this(name: String, race: String) -> Dog {
-    Dog {
-        name: name,
-        race,
-        age: 1,
-    }
+    Dog { name, race, age: 1 }
 }
 
 fn main() {

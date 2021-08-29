@@ -1,8 +1,15 @@
 # Table of Contents
 
+* [Using Nested Paths in Rust](#using-nested-paths-in-rust)
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Using Nested Paths in Rust
+
+[Source Code](source/using-nested-paths-in-rust.rs)
+
+![](images/using-nested-paths-in-rust.jpg)
 
 # Struct Update Syntax in Rust
 

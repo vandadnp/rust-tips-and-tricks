@@ -1,9 +1,16 @@
 # Table of Contents
 
+* [Pattern Matching with Match in Rust](#pattern-matching-with-match-in-rust)
 * [Using Nested Paths in Rust](#using-nested-paths-in-rust)
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Pattern Matching with Match in Rust
+
+[Source Code](source/pattern-matching-with-match-in-rust.rs)
+
+![](images/pattern-matching-with-match-in-rust.jpg)
 
 # Using Nested Paths in Rust
 

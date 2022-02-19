@@ -1,10 +1,17 @@
 # Table of Contents
 
+* [Parsing JSON in Rust](#parsing-json-in-rust)
 * [Pattern Matching with Match in Rust](#pattern-matching-with-match-in-rust)
 * [Using Nested Paths in Rust](#using-nested-paths-in-rust)
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Parsing JSON in Rust
+
+[Source Code](source/parsing-json-in-rust.rs)
+
+![](images/parsing-json-in-rust.jpg)
 
 # Pattern Matching with Match in Rust
 

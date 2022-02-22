@@ -1,11 +1,18 @@
 # Table of Contents
 
+* [HashMap Literals in Rust](#hashmap-literals-in-rust)
 * [Parsing JSON in Rust](#parsing-json-in-rust)
 * [Pattern Matching with Match in Rust](#pattern-matching-with-match-in-rust)
 * [Using Nested Paths in Rust](#using-nested-paths-in-rust)
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# `HashMap` Literals in Rust
+
+[Source Code](source/hashmap-literals-in-rust.rs)
+
+![](images/hashmap-literals-in-rust.jpg)
 
 # Parsing JSON in Rust
 

@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Drop Trait in Rust](#drop-trait-in-rust)
 * [HashMap Literals in Rust](#hashmap-literals-in-rust)
 * [Parsing JSON in Rust](#parsing-json-in-rust)
 * [Pattern Matching with Match in Rust](#pattern-matching-with-match-in-rust)
@@ -7,6 +8,12 @@
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Drop Trait in Rust
+
+[Source Code](source/drop-trait-in-rust.rs)
+
+![](images/drop-trait-in-rust.jpg)
 
 # `HashMap` Literals in Rust
 

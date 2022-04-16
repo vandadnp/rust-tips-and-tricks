@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Unwrap or Default in Rust](#unwrap-or-default-in-rust)
 * [Drop Trait in Rust](#drop-trait-in-rust)
 * [HashMap Literals in Rust](#hashmap-literals-in-rust)
 * [Parsing JSON in Rust](#parsing-json-in-rust)
@@ -8,6 +9,12 @@
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Unwrap or Default in Rust
+
+[Source Code](source/unwrap-or-default-in-rust.rs)
+
+![](images/unwrap-or-default-in-rust.jpg)
 
 # Drop Trait in Rust
 

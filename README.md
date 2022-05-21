@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Default Trait in Rust](#default-trait-in-rust)
 * [Flatten an `Option` in Rust](#flatten-an-option-in-rust)
 * [Unwrap or Default in Rust](#unwrap-or-default-in-rust)
 * [Drop Trait in Rust](#drop-trait-in-rust)
@@ -10,6 +11,12 @@
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Default Trait in Rust
+
+[Source Code](source/default-trait-in-rust.rs)
+
+![](images/default-trait-in-rust.jpg)
 
 # Flatten an `Option` in Rust
 

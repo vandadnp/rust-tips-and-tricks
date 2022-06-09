@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Unwrapping Multiple Options in Rust](#unwrapping-multiple-options-in-rust)
 * [Default Trait in Rust](#default-trait-in-rust)
 * [Flatten an `Option` in Rust](#flatten-an-option-in-rust)
 * [Unwrap or Default in Rust](#unwrap-or-default-in-rust)
@@ -11,6 +12,12 @@
 * [Struct Update Syntax in Rust](#struct-update-syntax-in-rust)
 * [Field Init Shorthand in Rust](#field-init-shorthand-in-rust)
 * [Shadowing in Rust](#shadowing-in-rust)
+
+# Unwrapping Multiple Options in Rust
+
+[Source Code](source/unwrapping-multiple-options-in-rust.rs)
+
+![](images/unwrapping-multiple-options-in-rust.jpg)
 
 # Default Trait in Rust
 
